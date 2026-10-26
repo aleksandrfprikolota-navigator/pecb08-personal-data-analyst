@@ -1,0 +1,8 @@
+/.env
+/storage
+__pycache__/
+*.pyc
+.venv/
+venv/
+_scenario/
+_scenario_run.py
